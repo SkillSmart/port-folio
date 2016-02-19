@@ -1,0 +1,77 @@
+img, video,
+object, embed {
+    max-width: 100%;
+}
+
+nav a, button {
+    min-width: 48px;
+    min-height: 48px;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    max-width: 960px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 100;
+}
+
+h2 {
+    color: #bcbbbb;
+    font-weight: 400;
+    padding: 10px;
+    margin-top: 45px;
+}
+
+h4 {
+    font-weight: 100;
+}
+
+h5 {
+    margin-bottom: 20px;
+}
+.header_logo {
+    background: black;
+    margin: 0 auto;
+    width: 95%;
+}
+article {
+    margin: 0;
+}
+
+.navbar-header {
+    background: white;
+}
+
+.showcase {
+    color: #747704;
+    font-weight: 700;
+}
+
+.logo {
+    padding: 40px 20px;
+    background: #f8981c;
+}
+
+.collapse {
+    margin-top: -10px;
+    padding-top: 0;
+    font-weight: 300;
+}
+
+.showcase h2 {
+    text-align:left;
+    margin-left: 15px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.showcase {
+    margin-bottom: 30px;
+}
+
